@@ -1,4 +1,4 @@
-# Bandit Level 00 → 01
+# Bandit Level 00
 
 ## Objective
 Log into the game using SSH
