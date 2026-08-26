@@ -1,4 +1,4 @@
-# Bandit Level 04 - 05
+# Bandit Level 03-04
 
 ## Objective
 -Find a password in a hidden file
