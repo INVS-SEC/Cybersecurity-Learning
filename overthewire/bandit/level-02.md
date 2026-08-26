@@ -13,8 +13,10 @@ Get a password from a "-" filename
 ls
 cat < -
 ```
-Reasoning - `ls` - lists the files in a directory
-          - `cat < - opens the dashed file
+Reasoning
+
+- `ls` - lists the files in a directory          
+- `cat < -` opens the dashed file
 
 Result - Resolved credentials for level 2
 
