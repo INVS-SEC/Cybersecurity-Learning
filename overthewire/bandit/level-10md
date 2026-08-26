@@ -1,0 +1,23 @@
+# Bandit Level 09-10
+
+## Objective
+-Find the password within a file of random data types, preceeded by ===========
+
+## Approach
+-use man on grep
+-use strings
+## Commands / Tools
+
+```bash
+man grep
+strings data.txt | grep -E "==+"
+```
+Reasoning 
+-strings data.txt returns only string data
+-grep -E "==+" returns the only strings which include any amount of ==
+
+Result - Resolved level 10 password
+
+What I learned
+-How to get only the string from a text file
+-How to use grep to find patterns in a string
