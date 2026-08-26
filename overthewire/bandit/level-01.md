@@ -1,4 +1,4 @@
-# Bandit Level 01-02
+# Bandit Level 00-01
 
 ## Objective
 Find a password in the readme file
