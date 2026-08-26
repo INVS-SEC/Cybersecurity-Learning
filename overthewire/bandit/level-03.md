@@ -1,4 +1,4 @@
-# Bandit Level 02 - 03
+# Bandit Level 03 - 04
 
 ## Objective
 Open a file with spaces in it's name
