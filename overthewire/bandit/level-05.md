@@ -19,4 +19,4 @@ Reasoning
 Result - Resolved level 5 password
 
 What I learned
--
+-How to find the data type within a file using bash
