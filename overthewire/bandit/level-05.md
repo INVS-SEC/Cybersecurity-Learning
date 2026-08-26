@@ -1,7 +1,7 @@
 # Bandit Level 04-05
 
 ## Objective
--Find a password based on properties
+-Find a the only human-readable file
 
 ## Approach
 -Used man to find out out to use find
