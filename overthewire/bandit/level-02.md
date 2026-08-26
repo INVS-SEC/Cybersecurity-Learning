@@ -1,4 +1,4 @@
-# Bandit Level 01 → 02
+# Bandit Level 02 → 03
 
 ## Objective
 Get a password from a "-" filename
